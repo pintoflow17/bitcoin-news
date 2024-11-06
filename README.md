@@ -1,4 +1,4 @@
-# Bitcoin News
+# Bitcoin News API Documentation
 
 ## Introduction
 
